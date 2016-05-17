@@ -1,2 +1,3 @@
 # hello-world
 following the tutorial...
+I'm trying to learn various programming languages.
